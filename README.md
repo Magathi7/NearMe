@@ -137,13 +137,12 @@ theatre.html
 ```
 
 ## OUTPUT!
-[Alt text](<Screenshot (31).png>) 
+[Alt text](<Screenshot (31).png>)
 [Alt text](<Screenshot (32).png>)
 [Alt text](<Screenshot (33).png>)
 [Alt text](<Screenshot (34).png>)
 [Alt text](<Screenshot (35).png>)
 [Alt text](<Screenshot (36).png>)
-
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
