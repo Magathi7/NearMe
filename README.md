@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 24/11/2023
+## Date: 29/11/2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -136,19 +136,14 @@ theatre.html
 </html>
 ```
 
-## OUTPUT
+## OUTPUT!
+[Alt text](<Screenshot (31).png>) 
+[Alt text](<Screenshot (32).png>)
+[Alt text](<Screenshot (33).png>)
+[Alt text](<Screenshot (34).png>)
+[Alt text](<Screenshot (35).png>)
+[Alt text](<Screenshot (36).png>)
 
-![Alt text](magathi/mapapp/static/map.png)
-
-![Alt text](<magathi/mapapp/static/Screenshot (21).png>)
-
-![Alt text](<magathi/mapapp/static/Screenshot (23).png>)
-
-![Alt text](<magathi/mapapp/static/Screenshot (24).png>)
-
-![Alt text](<magathi/mapapp/static/Screenshot (25).png>)
-
-![Alt text](<magathi/mapapp/static/Screenshot (26).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
